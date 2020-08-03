@@ -1,5 +1,4 @@
-<html>
-<body style = "background-image:url('Assets/Background.gif'); background-repeat:repeat;"><h1>Hi There!</h1>
+# Hi There!
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://dhiganthrao.github.io) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -29,5 +28,3 @@ I'm highly interested in contributing to any open-source project I can. If you w
 
 <p style = 'text-align:center;'><a href = 'https://www.facebook.com/pokemeister9899/'> <img src = 'Assets/Icons/Facebook.svg'><a href = 'https://twitter.com/dhiganthrao'> <img src = 'Assets/Icons/Twitter.svg'><a href = 'mailto:dhiganth00@gmail.com'> <img src = 'Assets/Icons/Gmail.svg'><a href = 'https://www.linkedin.com/in/dhiganth-rao-6219111b3/'> <img src = 'Assets/Icons/LinkedIn.svg'></p>
 
-</body>
-</html>
