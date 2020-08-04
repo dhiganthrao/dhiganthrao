@@ -26,5 +26,5 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 I'm highly interested in contributing to any open-source project I can. If you want to work together, or show me a place/repository to contribute to, contact me!
 
-<p style = 'text-align:center;'><a href = 'https://www.facebook.com/pokemeister9899/'> <img src = 'Assets/Icons/Facebook.svg'><a href = 'https://twitter.com/dhiganthrao'> <img src = 'Assets/Icons/Twitter.svg'><a href = 'mailto:dhiganth00@gmail.com'> <img src = 'Assets/Icons/Gmail.svg'><a href = 'https://www.linkedin.com/in/dhiganth-rao-6219111b3/'> <img src = 'Assets/Icons/LinkedIn.svg'></p>
+<p style = 'text-align:center;'><a href = 'https://www.facebook.com/pokemeister9899/'> <img src = 'https://raw.githubusercontent.com/dhiganthrao/dhiganthrao/master/Assets/Icons/Facebook.svg'><a href = 'https://twitter.com/dhiganthrao'> <img src = 'https://raw.githubusercontent.com/dhiganthrao/dhiganthrao/master/Assets/Icons/Twitter.svg'><a href = 'mailto:dhiganth00@gmail.com'> <img src = 'https://raw.githubusercontent.com/dhiganthrao/dhiganthrao/master/Assets/Icons/Gmail.svg'><a href = 'https://www.linkedin.com/in/dhiganth-rao-6219111b3/'> <img src = 'https://raw.githubusercontent.com/dhiganthrao/dhiganthrao/master/Assets/Icons/LinkedIn.svg'></p>
 
