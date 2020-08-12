@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://dhiganthrao.github.io) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-I'm Dhiganth, a 19 year old student currently studying at [SSN College of Engineering](https://www.ssn.edu.in/), Chennai. I'm pursuing a Bachelor's degree in Electronics and Communication Engineering, though my chief interests lie in programming. I'm also an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/), where I'm currently working on project related to Deep Learning and Natural Language Processing. I really like coding and I'm experienced (slightly) in programming languages like Python, C++ and Java, to name a few.  
+I'm Dhiganth, a 19 year old student currently studying at [SSN College of Engineering](https://www.ssn.edu.in/), Chennai. I'm pursuing a Bachelor's degree in Electronics and Communication Engineering, though my chief interests lie in programming. I'm also an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/), where I'm currently working on projects related to Deep Learning and Natural Language Processing. I really like coding and I'm experienced (slightly) in programming languages like Python, C++ and Java, to name a few.  
 
 I'm really interested in trying to automate loads of tasks I do daily using the simplest scripts I can, and I'm proud to say that I've succeeded in doing so (only for a few tasks though xD).
 
