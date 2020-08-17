@@ -1,5 +1,7 @@
 # Hi There!
 
+![Views](https://komarev.com/ghpvc/?username=dhiganthrao&color=blue&label=profile+views)
+
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://dhiganthrao.github.io) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 I'm Dhiganth, a 19 year old student currently studying at [SSN College of Engineering](https://www.ssn.edu.in/), Chennai. I'm pursuing a Bachelor's degree in Electronics and Communication Engineering, though my chief interests lie in programming. I'm also an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/), where I'm currently working on projects related to Deep Learning and Natural Language Processing. I really like coding and I'm experienced (slightly) in programming languages like Python, C++ and Java, to name a few.  
