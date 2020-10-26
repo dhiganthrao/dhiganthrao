@@ -23,7 +23,9 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 ## My GitHub stats and Languages used
 
 [![Dhiganth's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiganthrao&theme=dark&show_icons=true&hide=stars&count_private=true&title_color=blue&icon_color=white)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiganthrao&layout=compact&theme=dark&title_color=blue&icon_color=white)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiganthrao&theme=dark"/>
+</a>
 ## Contact Me!
 
 I'm highly interested in contributing to any open-source project I can. If you want to work together, or show me a place/repository to contribute to, contact me!
