@@ -10,11 +10,11 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 ## Experience
 
-I'm a Software Engineering Intern at [Activeloop](https://activeloop.ai), where we're building an open source package named [Hub](https://github.com/activeloopai/Hub); that lets you store (even petabyte-scale) datasets on the cloud, and lets you seamlessly integrate it with your ML applications! Don't waste time cleaning and preprocessing your data, use Hub instead.
-
 I'm a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I'm learning how to efficiently apply Deep Learning to Medical Image Processing.
 
-I'm also an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/), where I'm currently working on projects related to Deep Learning and Natural Language Processing.
+I was a Software Engineering Intern at [Activeloop](https://activeloop.ai), where I helped in rebuilding and maintaining an open source package named [Hub](https://github.com/activeloopai/Hub); that lets you store (even petabyte-scale) datasets on the cloud, and lets you seamlessly integrate it with your ML applications! Don't waste time cleaning and preprocessing your data, use Hub instead.
+
+I was also an Undergraduate Research Assistant at [Solarillion Foundation](https://solarillionfoundation.org/), where I worked on projects related to Deep Learning and Natural Language Processing.
 
 ## Projects
 
