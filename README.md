@@ -4,13 +4,13 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://dhiganthrao.github.io) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-I'm Dhiganth, a 21 year old student currently studying at [SSN College of Engineering](https://www.ssn.edu.in/), Chennai. I'm pursuing a Bachelor's degree in Electronics and Communication Engineering, though my chief interests lie in programming. I really like coding and I'm experienced (slightly) in programming languages like Python, C++ and Java, to name a few.  
+I'm Dhiganth, a 22 year old graduate student currently studying at the [University of Southern California](https://www.usc.edu/). I'm pursuing a Master's degree in Computer Science! 
 
 I'm really interested in trying to automate loads of tasks I do daily using the simplest scripts I can, and I'm proud to say that I've succeeded in doing so (only for a few tasks though xD).
 
 ## Experience
 
-I'm a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I'm learning how to efficiently apply Deep Learning to Medical Image Processing.
+I was a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I learnt how to efficiently apply Deep Learning to Medical Image Processing.
 
 I was a Software Engineering Intern at [Activeloop](https://activeloop.ai), where I helped in rebuilding and maintaining an open source package named [Hub](https://github.com/activeloopai/Hub); that lets you store (even petabyte-scale) datasets on the cloud, and lets you seamlessly integrate it with your ML applications! Don't waste time cleaning and preprocessing your data, use Hub instead.
 
