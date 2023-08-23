@@ -2,9 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=dhiganthrao&color=blue&label=profile+views)
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://dhiganthrao.github.io) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-I'm Dhiganth, a 22 year old graduate student currently studying at the [University of Southern California](https://www.usc.edu/). I'm pursuing a Master's degree in Computer Science! 
+I'm Dhiganth, a 23 year old graduate student currently studying at the [University of Southern California](https://www.usc.edu/). I'm pursuing a Master's degree in Computer Science! 
 
 I'm really interested in trying to automate loads of tasks I do daily using the simplest scripts I can, and I'm proud to say that I've succeeded in doing so (only for a few tasks though xD).
 
