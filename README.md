@@ -8,6 +8,8 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 ## Experience
 
+I'm currently interning at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackle problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
+
 I was a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I learnt how to efficiently apply Deep Learning to Medical Image Processing.
 
 I was a Software Engineering Intern at [Activeloop](https://activeloop.ai), where I helped in rebuilding and maintaining an open source package named [Hub](https://github.com/activeloopai/Hub); that lets you store (even petabyte-scale) datasets on the cloud, and lets you seamlessly integrate it with your ML applications! Don't waste time cleaning and preprocessing your data, use Hub instead.
@@ -34,7 +36,7 @@ I was also an Undergraduate Research Assistant at [Solarillion Foundation](https
 ## My GitHub stats and Languages used
 
 <details>
-<summary> Click to view my Stats! </summary>
+<summary> Click to view my stats! </summary>
 
 [![Dhiganth's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhiganthrao&theme=dark&show_icons=true&hide=stars&count_private=true&title_color=blue&icon_color=white)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiganthrao&layout=compact&theme=dark&title_color=blue&icon_color=white)](https://github.com/anuraghazra/github-readme-stats)
 <!--<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -44,7 +46,7 @@ I was also an Undergraduate Research Assistant at [Solarillion Foundation](https
 
 ## Contact Me!
 
-I'm highly interested in contributing to any open-source project I can. If you want to work together, or show me a place/repository to contribute to, contact me!
+These experiences have shaped my passion for Software Development, Machine Learning, Data Science, and DevOps. I'm excited to continue exploring these domains as I progress in my academic and professional journey. I'm also highly interested in contributing to any open-source project I can. If you want to work together, or show me a place/repository to contribute to, contact me!
 
 <p align = 'center'>
  <a href = 'https://www.facebook.com/pokemeister9899/'><img src = 'https://raw.githubusercontent.com/dhiganthrao/dhiganthrao/master/Assets/Icons/Facebook.svg'>  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
