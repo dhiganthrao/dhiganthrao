@@ -8,7 +8,9 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 ## Experience
 
-I'm currently interning at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackle problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
+I am an Engineer Intern at [Sema4.ai](https://sema4.ai) where I'm working on AI agents and architectures. Currently, I'm working on automating agents to perform important tasks on asynchronous triggers, which don't require you to do any work whatsoever. More information on this once I complete my internship 😉 
+
+I was a Software Engineering Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackle problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
 
 I was a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I learnt how to efficiently apply Deep Learning to Medical Image Processing.
 
