@@ -2,7 +2,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=dhiganthrao&color=blue&label=profile+views)
 
-I'm Dhiganth, a 23 year old graduate student currently studying at the [University of Southern California](https://www.usc.edu/). I'm pursuing a Master's degree in Computer Science! 
+I'm Dhiganth, a 24 year old graduate student currently studying at the [University of Southern California](https://www.usc.edu/). I'm pursuing a Master's degree in Computer Science! 
 
 I'm really interested in trying to automate loads of tasks I do daily using the simplest scripts I can, and I'm proud to say that I've succeeded in doing so (only for a few tasks though xD).
 
@@ -10,7 +10,7 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 I am an Engineer Intern at [Sema4.ai](https://sema4.ai) where I'm working on AI agents and architectures. Currently, I'm working on automating agents to perform important tasks on asynchronous triggers, which don't require you to do any work whatsoever. More information on this once I complete my internship 😉 
 
-I was a Software Engineering Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackle problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
+I was a Software Engineering Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackled problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
 
 I was a Research Intern at the [Indian Institute of Information Technology, Kancheepuram](https://www.iiitdm.ac.in/), where I learnt how to efficiently apply Deep Learning to Medical Image Processing.
 
