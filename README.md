@@ -8,7 +8,7 @@ I'm really interested in trying to automate loads of tasks I do daily using the 
 
 ## Experience
 
-I am an Engineer Intern at [Sema4.ai](https://sema4.ai) where I'm working on AI agents and architectures. Currently, I'm working on automating agents to perform important tasks on asynchronous triggers, which don't require you to do any work whatsoever. More information on this once I complete my internship 😉 
+I am a Software Engineer (previously an Engineer Intern) at [Sema4.ai](https://sema4.ai) where I'm working on AI agents and architectures. Currently, I'm working on the agent server responsible for handling AI agents of different cognitive architectures and LLMs. It's super interesting and I can't wait to share more about it!
 
 I was a Software Engineering Intern at [Siemens Healthineers](https://www.siemens-healthineers.com/), where I tackled problems related to Deep Learning for Application Screen Testing and Statistical Analyses of User Metrics. I designed a Machine Learning Pipeline with an impressive 99% testing accuracy. This project honed my expertise in data analysis and pattern recognition, enabling me to turn data into actionable insights.
 
